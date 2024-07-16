@@ -1,7 +1,4 @@
-# SpcaeShooter
-Sure, here's a basic `README.md` file for your Pyglet game project. This file includes an overview, installation instructions, usage, and a brief description of the code structure.
-
-# Pyglet Game
+# SpaceShooter, A Pyglet Game
 
 This is a simple game developed using the Pyglet library in Python. The game features a player-controlled spaceship that can move and shoot bullets. The game also includes enemies (asteroids) that break into smaller pieces upon collision.
 
@@ -56,6 +53,7 @@ python game.py
 - **functions.py**: Contains various utility functions for handling collisions, centering images, and generating enemies and player lives.
 
 ## Gameplay
+   For Gameplay, check out [Youtube Video](https://www.youtube.com/watch?v=7it_vIdLGqk).
 
 - **Movement**: Use the arrow keys to move the player's spaceship. 
   - `LEFT` and `RIGHT` keys to rotate the spaceship.
